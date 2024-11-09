@@ -1,10 +1,10 @@
 fn main() {
    //mutable that helps to assign new value;
-   let mutage =24; 
+   let mut page =24; 
 const   Age :u32=5;
   const pi:u8 =3;
   println!("Pi value is {pi}");
-   println!("My age is {age}");
+   println!("My age is {page}");
    // const =>> Const value should be used ;
 
    const ONE_SECOND :u64=60;
