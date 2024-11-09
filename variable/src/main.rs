@@ -12,4 +12,9 @@ const   Age :u32=5;
    const Three_Hours_In_Second:u32=60 * 60 *3+Age;
       println!("Three_Hours_In_Second is {Three_Hours_In_Second}");
   
+// SHADOWENING IN RUST
+let orange = 20;
+let orange = 32;
+println!("oranges{orange}");
+
 }
